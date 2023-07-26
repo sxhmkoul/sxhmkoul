@@ -55,5 +55,4 @@ I'm a Software Engineer with 3 years of experience in Front-End development. Pas
 If you're looking to collaborate on a project, hire for a role, or just want to chat about the latest frontend trends, drop me a message at [sxhmkoul@gmail.com]!
 
 
-[![](https://komarev.com/ghpvc/?username=sxhmkoul&color=green&style=flat-square)](https://profile-counter.glitch.me/sxhmkoul/count.svg)https://profile-counter.glitch.me/sxhmkoul/count.svg
-
+![Visitor Count](https://profile-counter.glitch.me/sxhmkoul/count.svg)
