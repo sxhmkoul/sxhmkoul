@@ -1,6 +1,8 @@
-### Hi, I'm Saksham 👋
+## Hi, I'm Saksham 👋
 
 I'm a Software Engineer with 3 years of experience in Front-End development. Passionate about building pixel-perfect UI and performance optimization, I've collaborated with design and backend teams to bring creative visions to life on the web.
+
+![](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 
 ## 🔍 Where to find me
 
